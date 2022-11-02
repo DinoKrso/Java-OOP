@@ -9,7 +9,7 @@ public class Main
             String word1 = reader.nextLine();
             words.add(word1) ;
     boolean check = false ; 
-    for(int i = 0 ; i<100; i++){
+    for(int i = 0 ; i<words.size(); i++){
          System.out.print("Type a word : ") ;
             String word2 = reader.nextLine();
             words.add(word2) ;

@@ -1,5 +1,3 @@
-import java.nio.file.AtomicMoveNotSupportedException;
-
 public class LyyraCard {
     private double balance;
 
